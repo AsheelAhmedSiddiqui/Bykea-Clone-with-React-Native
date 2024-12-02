@@ -50,6 +50,9 @@ export default function RootLayout() {
 			<View>
 				<MaterialIcons name="money" size={24} color="black" />
 			</View>
+			<View>
+				<MaterialIcons name="money" size={24} color="black" />
+			</View>
 		</View>
 	);
 }
@@ -78,6 +81,7 @@ const styles = StyleSheet.create({
 	},
 	logo: {
 		fontSize: 24,
+		color: "#2be60c;",
 	},
 	bannerImageBox: {
 		height: SCREEN_HEIGHT / 4,
