@@ -53,6 +53,9 @@ export default function RootLayout() {
 			<View>
 				<MaterialIcons name="money" size={24} color="black" />
 			</View>
+			<View>
+				<MaterialIcons name="money" size={24} color="black" />
+			</View>
 		</View>
 	);
 }
